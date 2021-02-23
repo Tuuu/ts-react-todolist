@@ -1,0 +1,18 @@
+.App {
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  max-width: 768px;
+  min-height: 100vh;
+  border-left: 1px solid rgba(0, 0, 0, 0.07);
+  border-right: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  font-size: 24px;
+  line-height: 1.5;
+}
